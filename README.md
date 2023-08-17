@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **CyberSecurity & Ethical Hacking**
 
-- 👨‍💻 All of my projects are available at [wavearnab.github.io](wavearnab.github.io)
+- 👨‍💻 All of my projects are available at [https://wavearnab.github.io/](https://wavearnab.github.io/)
 
 - 💬 Ask me about **react, Sudo, DSA**
 
